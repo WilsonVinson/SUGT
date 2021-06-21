@@ -6,7 +6,7 @@
 
 制作人：WilsonVinson
 
-#======   TinyLand 弹丸之地 SUGT06a3   ======
+# ======   TinyLand 弹丸之地 SUGT06a3   ======
 
 本游戏由 MoYuStudio 摸魚社® 100%原创开发
 
